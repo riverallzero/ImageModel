@@ -1,4 +1,4 @@
-# ImageModel
+# 🏞️ ImageModel
 
 ## GroundingDINO + SAM + StableDiffusion
 
