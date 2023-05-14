@@ -18,3 +18,15 @@
 
 ![image](https://github.com/riverallzero/ImageModel/assets/93754504/bc9a23a1-3d6f-4da1-9a12-fdb722fdb6dd) 
 --- |
+
+## AutomatedAnnotation
+1. GroundingDINO로 이미지 속 객체 수동 탐지
+2. SAM으로 객체 분할
+3. 이미지를 올리면 알려진 객체로 자동 어노테이션 수행
+
+[<img src="https://img.shields.io/badge/googlecolab-yellow?style=for-the-badge&logo=googlecolab&logoColor=white">](https://github.com/riverallzero/ImageModel/blob/main/AutomatedAnnotation.ipynb) [<img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/watch?v=oEQYStnF2l8)
+
+![1](https://github.com/riverallzero/ImageModel/assets/93754504/5bb07637-4f84-4322-a776-e0e54a1a2e6e) | ![2](https://github.com/riverallzero/ImageModel/assets/93754504/821f444f-e7ca-4514-bae9-73e60d034d80) | ![3](https://github.com/riverallzero/ImageModel/assets/93754504/a8715edd-b7ac-4c9b-9afa-8e33979bf273) | ![4](https://github.com/riverallzero/ImageModel/assets/93754504/b799edb6-bdae-4067-8648-899481ad0813)
+--- | --- | --- | --- |
+
+
