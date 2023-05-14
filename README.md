@@ -20,6 +20,7 @@
 --- |
 
 ## AutomatedAnnotation
+GroundingDINO + SAM + StableDiffusion에서 StableDiffusion을 뺀 것
 1. GroundingDINO로 이미지 속 객체 수동 탐지
 2. SAM으로 객체 분할
 3. 이미지를 올리면 알려진 객체로 자동 어노테이션 수행
